@@ -1,0 +1,21 @@
+body{
+    background-color:#ddf3f5;
+  }
+
+  hr{
+  background: url('/My-CV/HTML-Personal\ Site/Images/div1.png') no-repeat center;
+  background-size: auto;
+  background-size: contain;
+  height: 18px;
+  width: 50%;
+  border: none;
+  }
+
+  h2 {
+      color: #ade498;
+     font-family: Impact, fantasy;
+     -webkit-text-stroke-width: 1px;
+     -webkit-text-stroke-color: black;
+  }
+
+  
